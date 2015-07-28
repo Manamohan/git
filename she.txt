@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 My First edit
 My second edit
+=======
+My first edit
+>>>>>>> branch_one
